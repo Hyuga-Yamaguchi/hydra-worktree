@@ -40,7 +40,7 @@ Alias: `hw co`
 
 ```bash
 # Specify a ghq-managed repository
-hw co ags-fujitv-corp-com-ai fix/ui
+hw co my-repo fix/ui
 
 # Interactive selection (fzf for repo, then branch)
 hw co
