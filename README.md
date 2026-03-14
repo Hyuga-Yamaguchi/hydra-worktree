@@ -31,7 +31,7 @@ Create a worktree and launch Claude Code in a new iTerm2 tab.
 
 ```bash
 # Specify a ghq-managed repository
-ccw ags-fujitv-corp-com-ai fix/ui
+ccw my-repo fix/ui
 
 # Use a branch from the current repository
 ccw feat/new-feature
